@@ -9,7 +9,9 @@ This project is _only_ written with typescript as webdriverio (as of V7) support
 
 For consumption
 
-- webdriverio: >= 7.0
+- webdriverio: ">= 7.0"
+- yarn
+- node >=12.0.0
 
 Follow the setup steps here `<INSERT_LINK>` on how to get started with a new webdriverio project that leverages typescript natively. Alternatively, you can use the template project here `<INSERT_LINK>`
 

@@ -43,4 +43,4 @@ TBD
 
 ### Contribution
 
-Please make sure test page.objects locally before publishing. ONLY `main` should be published from, this helps require a review of your changes before publishing.
+Please make sure test page.objects locally before publishing. ONLY `main` should be published from, this helps require a review of your changes before publishing. Be sure to follow standard [semantic versioning](https://docs.npmjs.com/about-semantic-versioning) when making changes. Breaking changes should always be major. New PageObjects and features are minor, and bugs are patch.
